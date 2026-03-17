@@ -74,7 +74,7 @@ An interactive dashboard was built using Power BI to provide insights into premi
 
 Two page report was created on Power BI Desktop & it was then published to Power BI Service.
  
-![Publish_Message]([https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg](https://github.com/Chaithrakulal-23/Insurance-Data-Analysis-Dashboard/blob/d0cbad0997600f461c115e7681d8e5eda6618ef5/Screenshot%202026-03-17%20194631.png))
+![Publish_Message]([[https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg](https://github.com/Chaithrakulal-23/Insurance-Data-Analysis-Dashboard/blob/d0cbad0997600f461c115e7681d8e5eda6618ef5/Screenshot%202026-03-17%20194631.png)](https://github.com/Chaithrakulal-23/Insurance-Data-Analysis-Dashboard/blob/4e88fc7461ccc1c67604ae079a642d94349e082f/publi.png))
 
 # Snapshot of Dashboard (Power BI Service)
 
