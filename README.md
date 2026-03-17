@@ -47,7 +47,7 @@ An interactive dashboard was built using Power BI to provide insights into premi
 - Step 4 : It was observed that in none of the columns errors & empty values were present.
 - Step 5 : Created a conditional column for Age Group segmentation to analyze claim patterns across different age groups
 
-![Age Group Column](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Age Group Column]([https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg](https://github.com/Chaithrakulal-23/Insurance-Data-Analysis-Dashboard/blob/822097049f86cdacca2d4b34746d7aee6b6f036e/agegrp.png)
 - Step 6 : Created a conditional column for  Active/Inactive customer classification  for count of active/inactive by active/inactive
 ![Active/Inactive Column](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
 
