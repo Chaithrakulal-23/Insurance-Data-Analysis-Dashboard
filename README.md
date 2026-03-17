@@ -70,7 +70,7 @@ An interactive dashboard was built using Power BI to provide insights into premi
 - Step 15 : Implemented drill-through functionality on Policy Type to enable detailed analysis on a separate page
 
 
-![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Snap_1]([https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg](https://github.com/Chaithrakulal-23/Insurance-Data-Analysis-Dashboard/blob/c335b0953dc9ea196e83b4daa3fd6b91b3546262/drillthrough.png))
 
 Two page report was created on Power BI Desktop & it was then published to Power BI Service.
  
