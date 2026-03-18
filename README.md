@@ -76,12 +76,12 @@ Two page report was created on Power BI Desktop & it was then published to Power
  
 ![Publish_Message](https://github.com/Chaithrakulal-23/Insurance-Data-Analysis-Dashboard/blob/12a969801c18cbf8fcf1b11ab16d86f8285bb0a8/publisa.png)
 
-# Snapshot of Dashboard (Power BI Service)
+# Snapshot of Dashboard Page 1
 
-![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
+![dashboard_snapo](https://github.com/Chaithrakulal-23/Insurance-Data-Analysis-Dashboard/blob/6e613c225101b76a1ee540dd213085653af06dfd/prism.png)
 
  
- # Report Snapshot (Power BI DESKTOP)
+# Snapshot of Dashboard Page 2
 
  
 ![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
