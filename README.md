@@ -84,7 +84,7 @@ Two page report was created on Power BI Desktop & it was then published to Power
 # Snapshot of Dashboard Page 2
 
  
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+![Dashboard_upload](https://github.com/Chaithrakulal-23/Insurance-Data-Analysis-Dashboard/blob/2119551cbe87f84fc6ae92f35074c1703f8a017b/drilltable.png)
 
 # Insights
 - Identified high premium generating policy types  
